@@ -5,6 +5,7 @@
 worker/.wrangler/
 *.log
 .playwright-mcp/
+.claude/
 tmp-*.png
 yanxiawei-*.png
 node_modules/
